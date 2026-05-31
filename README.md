@@ -1,5 +1,11 @@
 # GIWA-DEX
 
+# 피치덱
+
+GainX-Pitch.pdf
+
+
+# 참고문헌 (본 연구개발팀의 연구)
 첨부된 문서들은 Impermanent Loss 에 관련된 본 연구개발팀의 논문들입니다. 
  
 Lee, G. M., & Kim, H. J. (2025). “Impermanent Loss Mitigation for Decentralized Exchanges through Optimization”. International Journal of Industrial Engineering: Theory, Applications and Practice, 31(6). https://doi.org/10.23055/ijietap.2024.31.6.10691
